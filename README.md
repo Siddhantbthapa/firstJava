@@ -1,1 +1,2 @@
-First Java Project \n for lab 0 for CMSC203
+First Java Project 
+for lab 0 for CMSC203
